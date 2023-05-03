@@ -1,4 +1,5 @@
-# Nikki Tirrell Programming Project 3: Longest Common Subsequence
+# Nikki Tirrell 
+# Longest Common Subsequence
 # references:
 # Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms (3rd ed.). Cambridge, MA: MIT Press.  
 # 
